@@ -1,6 +1,10 @@
 # SWIFT-CommsPod
 Hardware and software designs for a communications pod for the SWIFT-UAV.
 
+<p align="center">
+<img src="Images/Left angle view.png" alt="drawing" width="600"/>
+</p>
+
 
 ## Licensing and Citation
 
